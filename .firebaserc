@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "rich-kevan"
+  },
+  "targets": {
+    "rich-kevan": {
+      "hosting": {
+        "InstaGrab": [
+          "InstaGrab"
+        ],
+        "instagrab": [
+          "instagrab-project"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
